@@ -1,0 +1,60 @@
+/****Modo oscuro****/
+
+.dark-mode {
+    background-color: #222;
+    color: #fff;
+}
+
+.dark-mode .main-content {
+    background-color: #222;
+    color: #fff;
+}
+
+/* Agrega más reglas para el modo oscuro aquí */
+
+/* ...tu código CSS existente... */
+
+/* Modo oscuro */
+.dark-mode {
+    background-color: #222;
+    color: #fff;
+}
+
+.dark-mode .main-content {
+    background-color: #222;
+    color: #fff;
+}
+
+/* Ajuste de colores de los cards en modo oscuro */
+.dark-mode .light-red {
+    background: #444;
+}
+
+.dark-mode .light-purple {
+    background: #555;
+}
+
+.dark-mode .light-green {
+    background: #666;
+}
+
+.dark-mode .light-blue {
+    background: #777;
+}
+
+/* Modo oscuro para header--wrapper */
+.dark-mode .header--wrapper {
+    background: #8e8d8d;
+    color: #fff;
+}
+
+/**modo oscuro card-body**/
+.dark-mode .tabular--wrapper {
+    background: #8e8d8d;
+    color: #fff;
+}
+
+.dark{
+    box-sizing: border-box;
+    padding: 0;
+}
